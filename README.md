@@ -5,3 +5,5 @@
 The goal is to predict 1 specific kind of error - under extrusion.
 
 Dataset: https://www.kaggle.com/competitions/early-detection-of-3d-printing-issues/data
+
+The Dataset contains around 100k images of varing sizes
