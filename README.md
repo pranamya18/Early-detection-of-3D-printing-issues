@@ -12,6 +12,6 @@ The Dataset contains around 100k images of varing sizes
 
 <img width="519" alt="image" src="https://github.com/pranamya18/Early-detection-of-3D-printing-issues/assets/49710041/b60a65ca-2c7c-49eb-bbab-0206902e5c44">
 
-Resized all the images to 512 X 512.
+Resized all the images to 224 X 224.
 
 Deployed a Deep Learning model using tensorflow. Built a custom built Convolution Neural Network(CNN) on a pre-trained VGG16 model used for trasfer learning. 
